@@ -1,4 +1,4 @@
-function empleadoSueldo(){
+function sueldoEmpleado(){
 let sueldo, descuento, sueldoneto, sueldobruto
 sueldo = parseFloat (document.empleadx.sueldo.value);
 // sueldo = prompt("Ingresa el sueldo del empleado");
