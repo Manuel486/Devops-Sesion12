@@ -19,9 +19,9 @@ if(sueldo>=10001)
 sueldoneto=sueldo-descuento;
 sueldobruto=sueldo;
 
-console.log("El sueldo bruto es: " + sueldobruto);
-console.log("El descuento es: " + descuento);
-console.log("El sueldo neto es: " + sueldoneto);
+console.log("El salario bruto es: " + sueldobruto);
+console.log("Se te descuenta: " + descuento);
+console.log("El salario neto es: " + sueldoneto);
 
 document.empleadx.sueldobruto.value = sueldobruto;
 document.empleadx.descuento.value = descuento;
